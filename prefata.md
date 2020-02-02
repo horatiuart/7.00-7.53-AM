@@ -21,3 +21,7 @@ Vă invit a accepta a privi lumea din perspectiva algoritmului de analiză propu
 **Dacian Palladi**  
 – cel cu zece ani mai în vârstă decât autorul  
 Oradea, 3 Martie 2005
+
+<br>  
+
+**→ [7:00 AM](7-00.md)**
