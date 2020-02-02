@@ -11,57 +11,9 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 #### ISBN 973-0-03843-0
 
 
-[7:00 AM](7-00.md)
-[7:01 AM](7-01.md)
-
-
-## 7:02 AM
-
-```
-„Poate că lumea aceasta este iadul altei planete.”
-```
-```
-ALDOUS HUXLEY
-```
-- În timp ce te dezmeticeşti, încă
-somnoros, începi să prinzi frânturi din
-ştirile acestei zile.
-- Un nou atentat terorist cu câteva
-sute de morţi din rândul civililor undeva
-într-o ţară îndepărtată, unde există trupe
-de menţinere a păcii (şi companii
-petroliere).
-- O nouă ameninţare cu acte teroriste
-în lumea civilizată.
-- Primele măsuri luate în cazul
-scandalului public de săptămâna trecută
-(demisia unui adjunct şi anunţarea unei
-anchete serioase).
-- Rezultatul unui studiu care
-
-
-confirmă că depresia poate fi combătută cu
-success prin shopping.
-
-- Uneori te încearcă o senzaţie de
-deja-vu^1 când le asculţi.
-- Ca să fii perfect sincer, nu e
-singurul moment al zilei când te încearcă
-aceste senzaţii de deja-vu. Uneori îţi pare că
-viaţa însăşi e o lungă înşiruire de senzaţii
-de deja-vu.
-- Ai închide aparatul, dar rişti să se
-facă prea multă linişte. Preferi să alungi
-prea multa linişte cu vocile prezentatorilor
-de ştiri. Preferi să te afunzi în problemele
-lumii pentru a nu-ţi aduce aminte de
-problemele proprii.
-- Death-toll-urile sunt printre
-puţinele lucruri care îţi mai aduc aminte că
-ar trebui să te simţi fericit.
-
-1 Deja-vu (fr.) - impresia de a fi auzit sau
-experimentat un anumit lucru şi în trecut. (n.a.)
+[7:00 AM](7-00.md)  
+[7:01 AM](7-01.md)  
+[7:02 AM](7-02.md)  
 
 
 ## 7:03 AM
