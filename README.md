@@ -1,15 +1,11 @@
-### HORAŢIU TĂNESCU
+# <sub><sup>**[Horațiu Tănescu](https://www.horatiu.me)**</sup></sub><br>7.00 – 7.53 AM
 
-# 7.00 – 7.53 AM
-
-**Fragmente dintr-un jurnal scris
-fără ştirea mea**
+**ISBN 973-0-03843-0**
+<br><br>
 
 
-Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 
-#### ISBN 973-0-03843-0
-
+[PREFAŢĂ](prefata)  
 
 [7:00 AM](7-00.md)  
 [7:01 AM](7-01.md)  
