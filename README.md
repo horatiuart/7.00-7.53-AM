@@ -16,27 +16,10 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 [7:02 AM](7-02.md)  
 [7:03 AM](7-03.md)  
 [7:04 AM](7-04.md)  
+[7:05 AM](7-05.md)  
 
 
 
-## 7:05 AM
-
-```
-„Tinereţe, dar dumnezeiesc,
-nu mai eşti şi n-o să mai revii!
-Nu pot plânge, când să plâng doresc
-şi adesea plâng făr-a dori.”
-```
-```
-RUBEN DARIO
-Cântec de toamnă în primăvară, 1905
-```
-- Visezi.
-- Îţi închipui că o întâlneşti.
-- Îţi zâmbeşte şi îi zâmbeşti.
-- E dragoste la prima vedere.
-- Eşti fericit.
-- Visezi.
 
 
 ## 7:06 AM
