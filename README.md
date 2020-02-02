@@ -15,58 +15,8 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 [7:01 AM](7-01.md)  
 [7:02 AM](7-02.md)  
 [7:03 AM](7-03.md)  
+[7:04 AM](7-04.md)  
 
-
-
-
-## 7:04 AM
-
-```
-„Pe umeri pletele-i curg râu -
-Mlădie ca un spic de grâu,
-Cu şorţul negru prins în brâu,
-O pierd din ochi de dragă.
-Şi când o văd, îngălbenesc;
-Şi când n-o văd, mă-mbolvnăvesc,
-Iar când merg alţii de-o peţesc,
-Vin popi de mă dezleagă.”
-```
-```
-GEORGE COŞBUC
-Numai una!, 1889
-```
-- Împotriva voinţei, cazi pradă
-somnului.
-- E din nou linişte, nu mai auzi
-ştirile, nu mai auzi reclamele, nu mai auzi
-realitatea, nu mai auzi lumea.
-- Te scufunzi într-un somn adânc, ca
-o evadare.
-- Începi să visezi.
-
-
-- O visezi pe ea, care nu există. Şi n-a
-existat.
-- Va exista oare?
-- Într-unul din puţinele accese de
-individualitate care îţi mai străbat viaţa,
-încerci să ţi-o închipui altfel.
-- Altfel decât femeile care le vezi
-zilnic pe panourile publicitare. În reclame.
-La televizor. Pe stradă, semănând atât de
-bine cu cele de pe panourile publicitare. Cu
-cele de pe canalele de modă. Din revistele
-de modă. Din filmele cu eroine fatale şi sex-
-simbol-uri.
-- Din Top 100 FHM.
-- Încerci să o visezi mai vie. Mai
-caldă. Mai 3D.
-- Chiar dacă mai puţin voluptoasă,
-mai puţin adult movie star^1.
-- Chiar şi la ciclu.
-
-1 Adult movie star (engl.) - vedetă de film pentru
-adulţi. (n.a.)
 
 
 ## 7:05 AM
