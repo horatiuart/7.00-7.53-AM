@@ -10,44 +10,9 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 
 #### ISBN 973-0-03843-0
 
-## 7:00 AM
 
-> „Înăuntru, în apartament, o voce melodioasă citeşte o listă de cifre legate de producţia de fontă. [...] Winston răsuceşte un buton şi vocea slăbeşte întrucâtva, deşi cuvintele încă se mai disting. Aparatul – numit tele-ecran – poate fi dat mai încet, dar nu ai cum să-l închizi de tot.”
->
-> GEORGE ORWELL  
-> O mie nouă sute optzeci şi patru, 1949
-
-– Liniştea perfectă a camerei e perturbată de voci profesioniste într-un ritm alert.  
-– E ceva normal ca în loc de vechile sonerii de ceasuri deşteptătoare sau în loc de muzică, în ziua de azi să te trezească programele de ştiri.  
-– Nici nu se fabrică ceasuri deşteptătoare. Au devenit antichităţi.  
-– Toţi marii producători de electronice oferă în loc de acestea aparate de noptieră care la ora stabilită pornesc un anumit post de ştiri.  
-– A fi informat chiar din momentul în care te trezeşti este noua normalitate.  
-– Aparatul tău nu este chiar ultimul răcnet, aşa că nu poţi alege decât între 10.000 de posturi de ştiri (o supărătoare limitare numerică din cauze electronice a modelului mai vechi).  
-– Modelele mai noi au inclusiv display<sup>1</sup> color în care există un news bar<sup>2</sup> pe care circulă principalele ştiri, cotaţii bursiere, sau ultimele death toll-uri<sup>3</sup> ale celor mai recente atentate teroriste.  
-– Unele modele mai scumpe, dar care sunt acum la modă, vin cu acces Internet integrat, şi pot chiar să citească e-mail-urile primite, ca şi alarmă de trezire.  
-
-—————  
-<sup>1</sup> Display (engl.) - ecran. (n.a.)  
-<sup>2</sup> News bar (engl.) - o porţiune a unui ecran (de obicei o linie orizontală) pe care circulă principalele ştiri în format condensat. (n.a.)  
-<sup>3</sup> Death toll (engl.) - numărul de morţi rezultat dintr-o anumită cauză cum ar fi un accident, dezastru natural, etc. (n.a.)  
-
-## 7:01 AM
-
-> „Gândiţi-vă la ce profituri aţi putea aduce firmei dumneavoastră dacă aţi putea condiţiona un milion sau zece milioane de copii care vor creşte şi vor deveni adulţi educaţi să vă cumpere produsele, aşa cum sunt educaţi din timp soldaţii când aud cuvintele «trăgaci», «înainte marş»!”  
->
-> CLYDE R. MILLER  
-> Procesul convingerii, 1946
-
-– Instinctiv, la limita dintre somn şi trezire, îţi îndrepţi ochii spre locul din care vin sunetele.  
-– Partea superioară a display-ului e ocupată de obicei de un slogan, de o imagine sau de un clip video publicitar.  
-– În publicitate una din cele mai acerbe lupte care se dă în ziua de azi este pentru prima imagine pe care o vede consumatorul pe aceste display-uri când se trezeşte.  
-– S-a demonstrat că brand-ul care reuşeşte să fie primul vizibil în mod regulat are mari şanse de a se impune prioritar în conştiinţa consumatorului.  
-– Azi e o reclamă la detergent.  
-– Ieri a fost o reclamă la campania „SHOPPING-UL<sup>1</sup> MAI PRESUS DE TOATE”<sup>2</sup>.  
-
-—————  
-<sup>1</sup> Shopping (engl.) - a face cumpărături. (n.a.)  
-<sup>2</sup> Aluzie la sloganul „DEUTSCHLAND UBER ALLES” („Germania mai presus de toate”) a lui Joseph Goebbels. (n.a.)  
+[7:00 AM](7-00.md)
+[7:01 AM](7-01.md)
 
 
 ## 7:02 AM
