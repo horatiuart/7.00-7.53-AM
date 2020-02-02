@@ -23,67 +23,8 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 [7:09 AM](7-09.md)  
 [7:10 AM](7-10.md)  
 [7:11 AM](7-11.md)  
-
-
-
-
-
-## 7:12 AM
-
-```
-„Când în urmă cu câţiva ani reţeaua de
-distribuţie a curentului electric din New York a
-suferit o avarie care a durat câteva ore, mulţi
-oameni au crezut în mod serios că a venit
-sfârşitul lumii.”
-```
-```
-KONRAD LORENZ
-Cele opt păcate capitale ale omenirii
-civilizate, 1973
-```
-- Eşti în baie şi faci duş. Cu apă
-fierbinte.
-- Totul are temperatura pe care o
-dorim. Chiar şi inimile?
-- Totul e rece sau cald, aşa cum
-dorim, când dorim.
-- A avea totul aşa cum vrei, când
-vrei. Secretul fericirii. Secretul nefericirii.
-
-
-## 7:13 AM
-
-```
-„O, eşti frumos, cum numa-n vis
-Un înger se arată”
-```
-```
-MIHAI EMINESCU
-Luceafărul, 1883
-```
-- Pentru prima dată egalitate între
-sexe: produse de înfrumuseţare pentru toţi
-bărbaţii şi toate femeile.
-- 100 de miliarde de dolari anual.
-- 19 miliarde de dolari anual investiţi
-în plus = eliminarea foametei şi a
-malnutriţiei în lume.
-- 5 miliarde = alfabetizarea
-universală.
-- Narcisism? Căutarea acceptării?
-Încercarea de a masca lipsa altor tipuri de
-frumuseţe?
-- 100 de miliarde de dolari anual.
-
-
-- Şi totuşi mai lipsesc:
-- Fardurile pentru restul de
-umanitate rămas în noi.
-- Cremele anti-rid pentru suflet.
-- Şerveţelele igienice pentru
-contactul cu ceilalţi oameni.
-- Deodorantul pentru realitate.
+[7:12 AM](7-12.md)  
+[7:13 AM](7-13.md)  
 
 
 ## 7:14 AM
