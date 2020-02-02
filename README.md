@@ -1,6 +1,6 @@
 # <sub><sup>**[Horațiu Tănescu](https://www.horatiu.me)**</sup></sub><br>7.00 – 7.53 AM
 
-**ISBN 973-0-03843-0**
+**(2005)**
 <br><br>
 
 
