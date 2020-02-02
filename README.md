@@ -14,52 +14,9 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 [7:00 AM](7-00.md)  
 [7:01 AM](7-01.md)  
 [7:02 AM](7-02.md)  
+[7:03 AM](7-03.md)  
 
 
-## 7:03 AM
-
-```
-„Sunteţi frumoase, dar sunteţi reci, le mai spuse
-el. Nu poate muri cineva pentru voi. Fireşte,
-despre floarea mea de trandafir un trecător
-obişnuit ar crede că vă seamănă. Dar ea singură
-e mai importantă decât voi toţi, deoarece pe ea
-am stropit-o. Deoarece pe ea am pus-o sub un
-glob de sticlă. Deoarece pe ea am adăpostit-o
-după un paravan. Deoarece ei i-am omorât
-omizile (în afară de două-trei pentru fluturi).
-Deoarece pe ea am ascultat-o plângându-se sau
-lăudându-se sau uneori chiar tăcând. Deoarece
-este floarea mea de trandafir.”
-```
-```
-ANTOINE DE SAINT-EXUPERY
-Micul prinţ, 1943
-```
-- 49% rata divorţurilor, 1 din 2 copii
-trăind cu un singur părinte cel puţin o
-parte din viaţă, 43% din adulţi sunt
-
-
-singuri.^1
-
-- Ai hotărât să nu rişti. Te trezeşti
-singur în fiecare dimineaţă.
-- Te întinzi în patul gol şi liber, unde
-ar mai încăpea cel puţin încă o persoană
-(lucru care se mai întâmplă din când în
-când în unele seri; câteodată o persoană,
-câteodată două, câteodată chiar trei; uneori
-se mai întâmplă să rămână şi peste noapte;
-dimineaţa devreme, înainte de trezire, aţi
-putea trece ca un cuplu obişnuit, împărţind
-un pat, un dormitor, o viaţă; după trezirea
-în realitate redeveniţi o întâmplare; sau o
-tranzacţie, după caz).
-
-1 Statistici dintr-o ţară considerată a fi una din cele
-mai bune locuri de trăit de pe pământ (Statele
-Unite ale Americii). (n.a.)
 
 
 ## 7:04 AM
