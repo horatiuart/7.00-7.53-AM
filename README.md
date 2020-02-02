@@ -5,7 +5,7 @@
 
 
 
-[PREFAŢĂ](prefata)  
+[PREFAŢĂ](prefata.md)  
 
 [7:00 AM](7-00.md)  
 [7:01 AM](7-01.md)  
@@ -21,129 +21,8 @@
 [7:11 AM](7-11.md)  
 [7:12 AM](7-12.md)  
 [7:13 AM](7-13.md)  
-
-
-## 7:14 AM
-
-```
-„Carpe diem^1 ”
-```
-```
-HORATIU
-Ode, 23 î.H.
-```
-- Ieşind din baie, vezi că ai rămas
-fără hârtie igienică.
-- Te duci acum la laptop-ul din hol şi
-intri pe Internet să comanzi. Altfel vei uita.
-- Internetul e căzut. Se pare că un
-hacker afiliat la o oarecare organizaţie
-teroristă a atacat nişte servere şi routere. În
-semn de protest la politica expansionistă a
-occidentului şi a societăţii de consum.
-- Dintr-un motiv necunoscut, nici un
-site de shopping nu a fost afectat.
-
-1 Carpe diem (lat.) - Bucură-te de ziua de azi!
-(n.a.)
-
-
-- Home page-ul^1 browser-ului^2 tău e
-site-ul magazinului tău preferat. Se încarcă
-imediat. E uşor să dai click pe hărtie
-igienică, fiindcă site-ul îţi reţine automat ce
-ai mai cumpărat în trecut. De asemenea îţi
-reţine şi informaţiile financiare. Aşa că
-toată operaţiunea durează câteva click-uri
-şi câteva secunde.
-- După comandă, pachetele de hârtie
-igienică vor sosi în maximum zece minute.
-Nu le poţi avea pe toate în lumea aceasta
-chiar instantaneu. Măcar nu mai e nevoie
-de o deplasare într-un centru comercial
-tradiţional. Algomerat cu atâţia... oameni.
-- Şi se câştigă timp.
-- Timp ce poate fi folosit atât de bine,
-în atâtea alte moduri pozitive.
-- E de ajuns să urmăreşti un calup
-publicitar şi să-ţi vină atâtea idei. „Fiindcă
-clipele sunt atât de preţioase.” ®^3
-
-1 Home page (engl.) - aici cu sensul de pagina
-(site-ul) care se încarcă automat cand se deschide
-programul de navigare pe Internet. (n.a.)
-2 Browser (engl.) - aici cu sensul de program de
-navigare pe Internet. (n.a.)
-3 Marcă înregistrată a societăţii de consum. (n.a.)
-
-
-## 7:15 AM
-
-```
-„Ei vor ca producţia să fie limitată la lucruri
-folositoare, dar uită că producerea a prea multor
-lucruri folositoare are ca rezultat prea mulţi
-oameni inutili.”
-```
-```
-KARL MARX
-Manuscrise Economice şi Filozofice, 1844
-```
-- Intri în bucătărie.
-- Îţi pregăteşti micul dejun în
-cuptorul cu microunde.
-- Doi oameni care trăiesc împreună
-au nevoie de un singur cuptor cu
-microunde.
-- Dacă locuiesc separat, au nevoie de
-două.
-- E în interesul producţiei economice
-să locuiască separat. Să nu-şi unească
-destinele. Să rămână singuri.
-
-
-- Pentru doi oameni singuri e nevoie
-de două case. De două frigidere. De două
-televizoare. De două living-uri în care seara
-se aprind două candelabre şi în care iarna
-merg două calorifere. Doi oameni singuri
-îşi prepară mâncarea separat. Doi oameni
-singuri îşi fac cumpăraturile separat. Doi
-oameni singuri nu-şi împart produse,
-fiecare îşi cumpără câte unul. Doi oameni
-singuri merg separat la serviciu, cu maşini
-separate.
-- Doi oameni singuri sunt _doi_
-potenţiali clienţi pentru practic orice
-produs.
-- Pentru practic orice consum.
-- La fiecare doi oameni singuri care
-îşi unesc destinele, economia pierde în
-mare parte un consumator. Un miliard de
-oameni singuri care îşi unesc destinele, doi
-câte doi, poate înseamna o pierdere
-economică de o jumătate de miliard de
-consumatori!
-- Un bărbat singur e un bun
-potenţial client pentru the adult industry^1.
-
-1 (engl.) Industria pentru adulţi. (n.a.)
-
-
-- O femeie singură e un bun
-potenţial client pentru the chocolate
-industry^1.
-- Ambii sunt excelenţi pentru
-industria de divertisment.
-- Pentru filme de dragoste, emisiuni
-cu poveşti de dragoste, sport, ştiri, analize
-economice, talk-show-uri, seriale
-captivante, emisiuni interactive, ...
-- Îţi pregăteşti micul dejun în
-propriul tău exemplar de cuptor cu
-microunde.
-
-1 (engl.) Industria producătoare de ciocolată. (n.a.)
+[7:14 AM](7-14.md)  
+[7:15 AM](7-15.md)  
 
 
 ## 7:16 AM
