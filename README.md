@@ -12,7 +12,7 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 
 ## 7:00 AM
 
-> „Înăuntru, în apartament, o voce melodioasă > citeşte o listă de cifre legate de producţia de > fontă. [...] Winston răsuceşte un buton şi vocea > slăbeşte întrucâtva, deşi cuvintele încă se mai > disting. Aparatul – numit tele-ecran – poate fi > dat mai încet, dar nu ai cum să-l închizi de tot.”
+> „Înăuntru, în apartament, o voce melodioasă citeşte o listă de cifre legate de producţia de fontă. [...] Winston răsuceşte un buton şi vocea slăbeşte întrucâtva, deşi cuvintele încă se mai disting. Aparatul – numit tele-ecran – poate fi dat mai încet, dar nu ai cum să-l închizi de tot.”
 >
 > GEORGE ORWELL  
 > O mie nouă sute optzeci şi patru, 1949
@@ -33,46 +33,21 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 
 ## 7:01 AM
 
-```
-„Gândiţi-vă la ce profituri aţi putea aduce firmei
-dumneavoastră dacă aţi putea condiţiona un
-milion sau zece milioane de copii care vor creşte
-şi vor deveni adulţi educaţi să vă cumpere
-produsele, aşa cum sunt educaţi din timp
-soldaţii când aud cuvintele «trăgaci», «înainte
-marş»!”
-```
-```
-CLYDE R. MILLER
-Procesul convingerii, 1946
-```
-- Instinctiv, la limita dintre somn şi
-trezire, îţi îndrepţi ochii spre locul din care
-vin sunetele.
-- Partea superioară a display-ului e
-ocupată de obicei de un slogan, de o
-imagine sau de un clip video publicitar.
-- În publicitate una din cele mai
-acerbe lupte care se dă în ziua de azi este
-pentru prima imagine pe care o vede
+> „Gândiţi-vă la ce profituri aţi putea aduce firmei dumneavoastră dacă aţi putea condiţiona un milion sau zece milioane de copii care vor creşte şi vor deveni adulţi educaţi să vă cumpere produsele, aşa cum sunt educaţi din timp soldaţii când aud cuvintele «trăgaci», «înainte marş»!”  
+>
+> CLYDE R. MILLER  
+> Procesul convingerii, 1946
 
+– Instinctiv, la limita dintre somn şi trezire, îţi îndrepţi ochii spre locul din care vin sunetele.  
+– Partea superioară a display-ului e ocupată de obicei de un slogan, de o imagine sau de un clip video publicitar.  
+– În publicitate una din cele mai acerbe lupte care se dă în ziua de azi este pentru prima imagine pe care o vede consumatorul pe aceste display-uri când se trezeşte.  
+– S-a demonstrat că brand-ul care reuşeşte să fie primul vizibil în mod regulat are mari şanse de a se impune prioritar în conştiinţa consumatorului.  
+– Azi e o reclamă la detergent.  
+– Ieri a fost o reclamă la campania „SHOPPING-UL<sup>1</sup> MAI PRESUS DE TOATE”<sup>2</sup>.  
 
-consumatorul pe aceste display-uri când se
-trezeşte.
-
-- S-a demonstrat că brand-ul care
-reuşeşte să fie primul vizibil în mod regulat
-are mari şanse de a se impune prioritar în
-conştiinţa consumatorului.
-- Azi e o reclamă la detergent.
-- Ieri a fost o reclamă la campania
-„SHOPPING-UL^1 MAI PRESUS DE
-TOATE”^2.
-
-1 Shopping (engl.) - a face cumpărături. (n.a.)
-2 Aluzie la sloganul „DEUTSCHLAND UBER
-ALLES” („Germania mai presus de toate”) a lui
-Joseph Goebbels. (n.a.)
+—————  
+<sup>1</sup> Shopping (engl.) - a face cumpărături. (n.a.)  
+<sup>2</sup> Aluzie la sloganul „DEUTSCHLAND UBER ALLES” („Germania mai presus de toate”) a lui Joseph Goebbels. (n.a.)  
 
 
 ## 7:02 AM
