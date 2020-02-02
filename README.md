@@ -17,51 +17,9 @@ Copyright © 2004-2005 [Horaţiu Tănescu](https://horatiu.art)
 [7:03 AM](7-03.md)  
 [7:04 AM](7-04.md)  
 [7:05 AM](7-05.md)  
+[7:06 AM](7-06.md)  
 
 
-
-
-
-## 7:06 AM
-
-```
-„Luându-şi capu-n palme tăcut,
-ei se privesc,
-parcă o mie de ani nu s-au văzut,
-şi legându-şi gingaş, mângâietor,
-cu o frumoasă mişcare
-flacăra scumpă a trupului lor,
-gura-şi îngemănează, pentru sărut,
-şi cheia vieţii şi-o caută, ce dintr-un blestem
-s-a pierdut”
-```
-```
-KOSZTOLANYI DEZSO
-Îndrăgostiţii
-```
-- Visezi.
-- Eşti cu ea.
-- Aveţi un concediu de vis.
-- Soarele străluceşte mereu. Apa
-mării e de un albastru splendid. Insulele
-tropicale sunt pline de un verde incredibil.
-- Faceţi dragoste pe plajă. Încet, de
-
-
-parcă aveţi tot timpul din lume. Tandru.
-Îmbătat.
-
-- Îi spui că o iubeşti. Îţi spune că te
-iubeşte.
-- O muzică liniştită vă învăluie,
-asemeni valurilor.
-- Ea se transformă într-o ciocolată,
-iar muzica începe să cânte: „Cu ciocolata
-L.^1 mi-am găsit adevărata iubire. La un preţ
-incredibil.”
-
-1 L. de la Love (engl.) - Dragoste. Love (Dragostea)
-este de fapt o marcă. (n.a.)
 
 
 ## 7:07 AM
